@@ -313,7 +313,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 1166px;
+width: 1175px;
 
 }
 /******************
@@ -331,27 +331,27 @@ tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1), tr.note-row > t
     max-width: 20px; 
 }
 table.outline-column { 
-    width: 546px; 
-    max-width: 546px; 
+    width: 542px; 
+    max-width: 542px; 
 }
 tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) { 
-    width: 546px; 
-    max-width: 546px; 
+    width: 542px; 
+    max-width: 542px; 
     
 }
 tr#header td:nth-of-type(3), tr.outline-row > td:nth-of-type(3), tr.note-row > td:nth-of-type(3) { 
-    width: 150px; 
-    max-width: 150px; 
+    width: 210px; 
+    max-width: 210px; 
     
 }
 tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > td:nth-of-type(4) { 
-    width: 150px; 
-    max-width: 150px; 
+    width: 124px; 
+    max-width: 124px; 
     
 }
 tr#header td:nth-of-type(5), tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5) { 
-    width: 150px; 
-    max-width: 150px; 
+    width: 129px; 
+    max-width: 129px; 
     
 }
 tr#header td:nth-of-type(6), tr.outline-row > td:nth-of-type(6), tr.note-row > td:nth-of-type(6) { 
