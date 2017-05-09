@@ -313,7 +313,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 1175px;
+width: 1771px;
 
 }
 /******************
@@ -326,37 +326,43 @@ div#centered table.span-columns {
     max-width: 100%;
 }
 /* Column widths + backgrounds */
-tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1), tr.note-row > td:nth-of-type(1) { 
-    width: 20px; 
-    max-width: 20px; 
-}
 table.outline-column { 
-    width: 542px; 
-    max-width: 542px; 
+    width: 491px; 
+    max-width: 491px; 
 }
-tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) { 
-    width: 542px; 
-    max-width: 542px; 
+tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1) { 
+    width: 491px; 
+    max-width: 491px; 
+    
+}
+tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2), tr.note-row > td:nth-of-type(2) { 
+    width: 193px; 
+    max-width: 193px; 
     
 }
 tr#header td:nth-of-type(3), tr.outline-row > td:nth-of-type(3), tr.note-row > td:nth-of-type(3) { 
-    width: 210px; 
-    max-width: 210px; 
+    width: 227px; 
+    max-width: 227px; 
     
 }
 tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > td:nth-of-type(4) { 
-    width: 124px; 
-    max-width: 124px; 
+    width: 334px; 
+    max-width: 334px; 
     
 }
 tr#header td:nth-of-type(5), tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5) { 
-    width: 129px; 
-    max-width: 129px; 
+    width: 189px; 
+    max-width: 189px; 
     
 }
 tr#header td:nth-of-type(6), tr.outline-row > td:nth-of-type(6), tr.note-row > td:nth-of-type(6) { 
-    width: 150px; 
-    max-width: 150px; 
+    width: 164px; 
+    max-width: 164px; 
+    
+}
+tr#header td:nth-of-type(7), tr.outline-row > td:nth-of-type(7), tr.note-row > td:nth-of-type(7) { 
+    width: 173px; 
+    max-width: 173px; 
     
 }
 
@@ -364,7 +370,10 @@ tr#header td:nth-of-type(6), tr.outline-row > td:nth-of-type(6), tr.note-row > t
 tr.outline-row > td:nth-of-type(1), tr.note-row > td:nth-of-type(1){ 
     
 }
-tr.outline-row > td:nth-of-type(2) { 
+tr.outline-row > td:nth-of-type(1) { 
+    
+}
+tr.outline-row > td:nth-of-type(2), tr.note-row > td:nth-of-type(2){ 
     
 }
 tr.outline-row > td:nth-of-type(3), tr.note-row > td:nth-of-type(3){ 
@@ -377,6 +386,9 @@ tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5){
     
 }
 tr.outline-row > td:nth-of-type(6), tr.note-row > td:nth-of-type(6){ 
+    
+}
+tr.outline-row > td:nth-of-type(7), tr.note-row > td:nth-of-type(7){ 
     
 }
 
